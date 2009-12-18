@@ -1,0 +1,4 @@
+.h1 My Sandbox
+
+the main purpose is to learn about git and github (i'm more acquainted with mercurial or svn).
+but maybe i put some minor snippets in here as well.
